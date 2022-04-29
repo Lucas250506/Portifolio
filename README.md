@@ -13,3 +13,5 @@ O meu portifolio vai conter minhas ativiades do semestre.
 
 ### Link atividade de logica computacional
 [clique aqui](https://drive.google.com/file/d/1rfogrtIsbzYGZKSQnjQw5Od2SinGGOGP/view)
+
+![imagem da atividade feita](https://lh6.googleusercontent.com/4vVEtmwmOl8Z_kYWg91s4dx2tdzudDy-FGWuMNQStwA_ndTM_B305ZvZvrBODMlIMwjeTH14I5tczaA=w1349-h657)
