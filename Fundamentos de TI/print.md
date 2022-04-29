@@ -8,3 +8,6 @@ No comando wc nomes, ele processa o número de linhas, espaços e caracteres e m
 $ cat nomes | sort
 
 O link para a atividade vai estar no READme
+
+[clique aqui](https://docs.google.com/document/d/1XKjI4kazGFvBmb_Ay5JXZhWNFDpASLJ2IY2auSzifLM/edit?usp=sharing)
+ou pode acessar o documento clicando ali.
