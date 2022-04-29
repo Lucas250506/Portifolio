@@ -12,4 +12,4 @@ O meu portifolio vai conter minhas ativiades do semestre.
 [clique aqui](https://docs.google.com/document/d/1XKjI4kazGFvBmb_Ay5JXZhWNFDpASLJ2IY2auSzifLM/edit?usp=sharing)
 
 ### Link atividade de logica computacional
-[]()
+[clique aqui](https://drive.google.com/file/d/1rfogrtIsbzYGZKSQnjQw5Od2SinGGOGP/view)
