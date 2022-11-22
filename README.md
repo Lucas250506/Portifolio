@@ -29,3 +29,13 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
 ## **Fundamentos de banco de dados**
 ### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Banco_de_dados/Documento%20sem%20t%C3%ADtulo.pdf)
 ### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Banco_de_dados/atividade.png)
+
+## **Fundamentos de rede**
+### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Fundamentos_de_rede/Gr%C3%A1fico%20de%20Superf%C3%ADcie%20.pdf)
+### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Fundamentos_de_rede/atividade%201.png)
+
+## **Lógica de programação**
+### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Logica_de_programacao/Objetos.zip)
+
+
+
