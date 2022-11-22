@@ -21,7 +21,7 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
 
 
 
-# **As atividade escolhidas foram as que eu mais gostei de fazer ao longo do semestre.**
+ **As atividade escolhidas foram as que eu mais gostei de fazer ao longo do semestre.**
 
 # **3° Trimestre**
 
