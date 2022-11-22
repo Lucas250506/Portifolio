@@ -24,4 +24,8 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
  **As atividade escolhidas foram as que eu mais gostei de fazer ao longo do semestre.**
 
 # **3° Trimestre**
+**Atividades 3° trimestre**
 
+## **Fundamentos de banco de dados**
+### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Banco_de_dados/Documento%20sem%20t%C3%ADtulo.pdf)
+### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Banco_de_dados/atividade.png)
