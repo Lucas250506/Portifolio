@@ -37,5 +37,8 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
 ## **Lógica de programação**
 ### [clique aqui](https://github.com/Lucas250506/Portifolio/blob/main/Logica_de_programacao/Objetos.zip)
 
+# **3° Ano**
+**Atividades 1° trimestre**
+
 
 
