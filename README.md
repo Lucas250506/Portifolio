@@ -39,6 +39,8 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
 
 # **3° Ano**
 **Atividades 1° trimestre**
+### Link atividade jogo random
+[clique aqui](https://docs.google.com/document/d/1frX0J50pIHQFrS_Wam7rVFcW7CZa4VgvTWk1sUr-fug/edit)
 
 
 
