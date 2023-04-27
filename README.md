@@ -43,5 +43,5 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
 [clique aqui](https://docs.google.com/document/d/1frX0J50pIHQFrS_Wam7rVFcW7CZa4VgvTWk1sUr-fug/edit)
 ### Atividade arquivo CSV
 ![imagem da atividade feita](https://github.com/Lucas250506/Portifolio/blob/main/Captura%20de%20tela%202023-04-27%20090805.png)
-
+![imagem da atividade feita](![imagem da atividade feita](https://github.com/Lucas250506/Portifolio/blob/main/Captura%20de%20tela%202023-04-27%20090805.png))
 
