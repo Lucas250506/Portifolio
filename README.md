@@ -47,4 +47,5 @@ O meu portifolio vai conter uma atividade de lógica computacional, uma de funda
 
 **AUTORIAS**
 Banco de dados
+
 ![imagem da autoria](https://github.com/Lucas250506/Portifolio/blob/ec98920c120675d4c42acc0fb95674212e84082e/Banco_de_dados/Captura%20de%20tela%202023-04-28%20192620.png)
