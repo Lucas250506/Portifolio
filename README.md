@@ -57,7 +57,7 @@ Programação de aplicativos
 
 **Atividades 2° trimestre**
 ## Link atividade banco de dados
-[Clique aqui](https://classroom.google.com/c/NTQyMTY1MDY2ODUz/a/NTU0MzQ3MTYxMjE3/details?hl=pt)
+[Clique aqui](https://docs.google.com/document/d/1RCAkiQ6_wmPlIlkR3JtrBBfpgknb5QnnZDJYUx4fbKo/edit?usp=sharing)
 
 ## Link atividade teste de sistemas
 [Clique aqui](https://docs.google.com/document/d/1URKZd283aVrhLnQYN7O9KRuZouu7G-CCmnVfDq7LJ78/edit?usp=sharing)
