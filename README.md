@@ -60,4 +60,4 @@ Programação de aplicativos
 [Clique aqui](https://classroom.google.com/c/NTQyMTY1MDY2ODUz/a/NTU0MzQ3MTYxMjE3/details?hl=pt)
 
 ## Link atividade teste de sistemas
-[Clique aqui](https://classroom.google.com/c/NTQyMTY1MDY2ODUz/a/NjE3MjA5OTg3NzQw/details?hl=pt)
+[Clique aqui](https://docs.google.com/document/d/1URKZd283aVrhLnQYN7O9KRuZouu7G-CCmnVfDq7LJ78/edit?usp=sharing)
