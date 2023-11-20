@@ -1,5 +1,5 @@
-# Portifolio
-**Portifolio do Lucas**
+# Portfolio
+**Portfolio do Lucas**
 
 Meu nome é Lucas tenho 15 e moro em São José, e vim pro senai por conta do curso técnico pr que vi uma oportunidade aqui já que a área da TI vem crescendo um monte.
 
@@ -65,3 +65,12 @@ Programação de aplicativos
 [Clique aqui](https://docs.google.com/document/d/1URKZd283aVrhLnQYN7O9KRuZouu7G-CCmnVfDq7LJ78/edit?usp=sharing)
 
 **Autoria** : [Clique aqui](https://docs.google.com/document/d/1BRMwgPM9xhkfAeCMhhuidrLT2wgIxilqfkwjSCd_Wfk/edit?usp=sharing)
+
+**Atividades 3° trimestre**
+## Link atividade desenvolvimento de sistemas
+[Clique aqui](https://classroom.google.com/c/NTQyMTY1MDY2ODUz/a/NTkwMTcxODQzNTg4/details?hl=pt)
+
+## Link atividade programação de apliativos
+[Clique aqui](https://classroom.google.com/c/NTQyMTY1MDY2ODUz/a/NTg5NDU2MzM0NTQ5/details?hl=pt)
+
+**Autoria** : [Clique aqui](https://drive.google.com/file/d/16DCkKuv8iqWRY9qpvhC1rdyPZsmkpzKm/view?usp=sharing)
